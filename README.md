@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Welcome to My Daily Coding Challenge Journey!
 
-<!--
-**GitDailyChallenge/GitDailyChallenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m CreeD, and I’m taking on the challenge to code **every day**.  
+My goal: create small projects daily that could eventually **combine into bigger, more interesting projects**.  
 
-Here are some ideas to get you started:
+## 📖 Table of Contents
+- [About This Challenge](#about-this-challenge)
+- [Daily Projects](#daily-projects)
+- [Future Ideas](#future-ideas)
+- [Contact](#contact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About This Challenge
+- Start Date: 2025-10-13  
+- Goal: 1 small coding project per day  
+- Languages & Tools: JavaScript, HTML/CSS, GitHub, React, Java etc.
+
+## Daily Projects
+*(Each day, I’ll create a repository for a project here)*
+
+| Date       | Project Name | Description | Repo Link |
+|-----------|--------------|------------|-----------|
+| 2025-10-13 | To do liste | back to basic with a todoliste | [Repo Link]() |
+
+
+## Future Ideas
+- Make a volleyball game
+- Make a dictation website based on audio scenes from movies
+- Combine small games into one “mini-games” collection  
+- Web dashboard to track all projects
+
+## Contact
+- Email: pi3rr3d3v@gmail.com  
+- Twitter: [@dev_veille](https://x.com/dev_veille)
