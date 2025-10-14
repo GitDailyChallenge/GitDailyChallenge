@@ -19,8 +19,8 @@ My goal: create small projects daily that could eventually **combine into bigger
 
 | Date       | Project Name | Description | Repo Link |
 |-----------|--------------|------------|-----------|
-| 2025-10-13 | To do liste | back to basic with a todoliste | [Repo Link]() |
-| 2025-10-14 | ukulele practice | quick web app to help practice ukulele accords | [Repo Link]() |
+| 2025-10-13 | To do liste | back to basic with a todoliste | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN1---13_10_2025) |
+| 2025-10-14 | ukulele practice | quick web app to help practice ukulele accords | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN2---14_10_2025) |
 
 
 
