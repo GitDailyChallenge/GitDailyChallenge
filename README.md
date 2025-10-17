@@ -22,7 +22,7 @@ My goal: create small projects daily that could eventually **combine into bigger
 | 2025-10-13 | To do liste | back to basic with a todoliste | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN1---13_10_2025) |
 | 2025-10-14 | ukulele practice | quick web app to help practice ukulele accords | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN2---14_10_2025) |
 | 2025-10-15 | form and verification | quick form and field verification | [Repo Link](https://github.com/GitDailyChallenge/GitDailyChallenge-GitDailyN3---15_10_2025) |
-
+| 2025-10-16 | password strenght checker | from user input(password) give a note/strenght (weak, medium, strong) | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN4---16_10_2025) |
 
 
 ## Future Ideas
