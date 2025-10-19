@@ -23,6 +23,10 @@ My goal: create small projects daily that could eventually **combine into bigger
 | 2025-10-14 | ukulele practice | quick web app to help practice ukulele accords | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN2---14_10_2025) |
 | 2025-10-15 | form and verification | quick form and field verification | [Repo Link](https://github.com/GitDailyChallenge/GitDailyChallenge-GitDailyN3---15_10_2025) |
 | 2025-10-16 | password strenght checker | from user input(password) give a note/strenght (weak, medium, strong) | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN4---16_10_2025) |
+| 2025-10-17 | animation loading | animated a loading after button click and display success check | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN5---17_10_2025) |
+| 2025-10-18 | Color Flipper | Change the background of the page with color info | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN6---18_10_2025) |
+| 2025-10-19 | Game Guess the number | from 1 to a 100 guess the number with the least attempts | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN7---19_10_2025) |
+
 
 
 ## Future Ideas
