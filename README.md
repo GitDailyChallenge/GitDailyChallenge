@@ -26,6 +26,7 @@ My goal: create small projects daily that could eventually **combine into bigger
 | 2025-10-17 | animation loading | animated a loading after button click and display success check | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN5---17_10_2025) |
 | 2025-10-18 | Color Flipper | Change the background of the page with color info | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN6---18_10_2025) |
 | 2025-10-19 | Game Guess the number | from 1 to a 100 guess the number with the least attempts | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN7---19_10_2025) |
+| 2025-10-20 | Memory game | memorise 2 to 10 images in order | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN8---20_10_2025) |
 
 
 
