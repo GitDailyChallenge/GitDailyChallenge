@@ -32,7 +32,7 @@ My goal: create small projects daily that could eventually **combine into bigger
 | 2025-10-23 | Roulette picker | choose one from multiple options given | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN11--23_10_2025) |
 | 2025-10-24 | New Year count down | Gives time left before the New Year | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN12---24_10_2025) |
 | 2025-10-25 | MasterMinde game | Crack the 4 combination color code  | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN13---25_10_2025) |
-| 2025-10-26 | Counting Test | count how many time you tap the spacebar and give back the number when asked  | [Repo Link]((https://github.com/GitDailyChallenge/GitDailyN14-26_10_2025) |
+| 2025-10-26 | Counting Test | count how many time you tap the spacebar and give back the number when asked  | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN14-26_10_2025) |
 | 2025-10-27 | Elimination Game | from a given list of name the game will choose who remains | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN15--27_10_2025) |
 
 
