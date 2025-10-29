@@ -34,6 +34,8 @@ My goal: create small projects daily that could eventually **combine into bigger
 | 2025-10-25 | MasterMinde game | Crack the 4 combination color code  | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN13---25_10_2025) |
 | 2025-10-26 | Counting Test | count how many time you tap the spacebar and give back the number when asked  | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN14-26_10_2025) |
 | 2025-10-27 | Elimination Game | from a given list of name the game will choose who remains | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN15--27_10_2025) |
+| 2025-10-28 | header with style | font and stylish header | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN16---28_10_2025) |
+| 2025-10-29 | Guess how is that pokemon ? | From the first 151 pokemon list try to give from images the names | [Repo Link](https://github.com/GitDailyChallenge/GitDailyN17-29_10_2025) |
 
 
 
